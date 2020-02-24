@@ -2,25 +2,32 @@
   "Technologies": [
     {
       "Id": "1bc58e88-3db7-4a15-ad19-b3b0ab606a53",
-      "Name": "Learning Pathways",
-      "Subjects": []
-    },
-    {
-      "Id": "24a63b0c-4f0e-4565-93d7-9b8a981e960f",
-      "Name": "Multilingual",
+      "Name": "AWS",
       "Subjects": []
     },
     {
       "Id": "c946268b-7fa1-4778-8e85-2b65b5186947",
-      "Name": "PnP",
+      "Name": "Azure",
       "Subjects": [
         {
+          "Id": "5b1a6578-0cf6-4942-9c80-7d0ac97c4a98",
+          "Name": "Overview"
+        },        
+        {
           "Id": "5b1a6578-0cf6-4942-9c80-7d0ac97c4a13",
-          "Name": "SPFx Generator"
+          "Name": "Network"
         },
         {
+          "Id": "5b1a6578-0cf6-4942-9c80-7d0ac97c4a45",
+          "Name": "Storage"
+        },
+        {
+          "Id": "5b1a6578-0cf6-4942-9c80-7d0ac97c4a67",
+          "Name": "Compute"
+        },        
+        {
           "Id": "988803d4-3979-41e8-ba3f-1242324b0688",
-          "Name": "Provisioning"
+          "Name": "Operations"
         }
       ]
     }
@@ -28,19 +35,19 @@
   "Categories": [
     {
       "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
-      "Name": "Recent PnP Learnings",
+      "Name": "Azure",
       "Image": "",
       "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
       "SubjectId": "",
-      "Source": "JulieTurner",
+      "Source": "RyanMarchant",
       "SubCategories": [
         {
           "Id": "707bef35-0c1b-4e0a-b60f-5c059f0d6a57",
-          "Name": "PnP Remote Provisioning",
+          "Name": "Architect Great Solutions in Azure",
           "Image": "images/categories/remote.png",
           "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
-          "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
-          "Source": "JulieTurner",
+          "SubjectId": "5b1a6578-0cf6-4942-9c80-7d0ac97c4a98",
+          "Source": "RyanMarchant",
           "SubCategories": []
         }
       ]
@@ -48,16 +55,20 @@
   ],
   "Audiences": [
     {
+      "Id": "e8c8ddb2-cc57-4547-8678-d6df31ae3bca",
+      "Name": "Architect"
+    },
+    {
       "Id": "e8c8ddb2-cc57-4547-8678-d6df31ae3ada",
       "Name": "Developer"
-    },
+    },    
     {
       "Id": "922979ef-2f63-4cfa-9f70-5b36bf1f1c13",
       "Name": "IT Admin"
     }
   ],
   "Sources": [
-    "JulieTurner"
+    "RyanMarchant"
   ],
   "Levels": [
     {
