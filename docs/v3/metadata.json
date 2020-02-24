@@ -1,0 +1,110 @@
+{
+  "Technologies": [
+    {
+      "Id": "1bc58e88-3db7-4a15-ad19-b3b0ab606a53",
+      "Name": "Learning Pathways",
+      "Subjects": []
+    },
+    {
+      "Id": "24a63b0c-4f0e-4565-93d7-9b8a981e960f",
+      "Name": "Multilingual",
+      "Subjects": []
+    },
+    {
+      "Id": "c946268b-7fa1-4778-8e85-2b65b5186947",
+      "Name": "PnP",
+      "Subjects": [
+        {
+          "Id": "5b1a6578-0cf6-4942-9c80-7d0ac97c4a13",
+          "Name": "SPFx Generator"
+        },
+        {
+          "Id": "988803d4-3979-41e8-ba3f-1242324b0688",
+          "Name": "Provisioning"
+        }
+      ]
+    }
+  ],
+  "Categories": [
+    {
+      "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
+      "Name": "Recent PnP Learnings",
+      "Image": "",
+      "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
+      "SubjectId": "",
+      "Source": "JulieTurner",
+      "SubCategories": [
+        {
+          "Id": "707bef35-0c1b-4e0a-b60f-5c059f0d6a57",
+          "Name": "PnP Remote Provisioning",
+          "Image": "images/categories/remote.png",
+          "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
+          "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
+          "Source": "JulieTurner",
+          "SubCategories": []
+        }
+      ]
+    }
+  ],
+  "Audiences": [
+    {
+      "Id": "e8c8ddb2-cc57-4547-8678-d6df31ae3ada",
+      "Name": "Developer"
+    },
+    {
+      "Id": "922979ef-2f63-4cfa-9f70-5b36bf1f1c13",
+      "Name": "IT Admin"
+    }
+  ],
+  "Sources": [
+    "JulieTurner"
+  ],
+  "Levels": [
+    {
+      "Id": "5a958086-473d-46b3-92eb-c1e09c34263c",
+      "Name": "Beginner"
+    },
+    {
+      "Id": "7e98bcb4-85bd-4b78-9823-3283dab21064",
+      "Name": "Intermediate"
+    },
+    {
+      "Id": "27f4c920-bcab-46b9-8e13-9de63e219c84",
+      "Name": "Advanced"
+    }
+  ],
+  "StatusTag": [
+    {
+      "Id": "164d99ed-c638-4dbb-8295-781312dee721",
+      "Name": "New"
+    },
+    {
+      "Id": "88c75433-02c4-4aab-9606-900fe099ea16",
+      "Name": "Updated"
+    },
+    {
+      "Id": "83289991-44b8-4274-943a-9b8dcfcb94f9",
+      "Name": "Retiring"
+    },
+    {
+      "Id": "45d78306-16fb-4ad4-affd-5314715a0323",
+      "Name": "Retired"
+    },
+    {
+      "Id": "78d72d69-8c00-4abd-a089-806d7822b250",
+      "Name": "Beta"
+    }
+  ],
+  "Telemetry": {},
+  "Version": {
+    "Manifest": "v3",
+    "ManifestMinWebPart": "3.0.0",
+    "CurrentWebPart": "3.0.0",
+    "RepoURL": "https://github.com/pnp/custom-learning-office-365#updating-the-solution"
+  },
+  "ContentPacks": [],
+  "AssetOrigins": [
+    "https://support.office.com",
+    "https://docs.microsoft.com"
+  ]
+}

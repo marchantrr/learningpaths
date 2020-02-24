@@ -1,0 +1,79 @@
+[
+  {
+    "Id": "3b72f30f-1438-4551-b009-8ad6f7d924a2",
+    "Title": "PnP Provisioning Schema",
+    "Description": "",
+    "Url": "https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/pnp-provisioning-schema?context=context%2Fchromeless&linktarget=true",
+    "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
+    "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
+    "Source": "JulieTurner",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "2819116b-ce59-41aa-8a50-a9cb5af1be45",
+    "Title": "PnP provisioning framework",
+    "Description": "",
+    "Url": "https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/pnp-provisioning-framework?context=context%2Fchromeless&linktarget=true",
+    "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
+    "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
+    "Source": "JulieTurner",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "b53e628a-3558-44be-b14e-1a9700c9c37a",
+    "Title": "PnP Remote Provisioning Overview",
+    "Description": "",
+    "Url": "https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/pnp-remote-provisioning?context=context%2Fchromeless&linktarget=true",
+    "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
+    "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
+    "Source": "JulieTurner",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "9faefc4b-60e8-46ef-892c-791e030a8d28",
+    "Title": "Introducing the PnP provisioning engine",
+    "Description": "",
+    "Url": "https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/introducing-the-pnp-provisioning-engine?context=context%2Fchromeless&linktarget=true",
+    "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
+    "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
+    "Source": "JulieTurner",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "2d194e23-a11c-4821-bc68-7a57c7cd2940",
+    "Title": "PnP provisioning engine and the Core library",
+    "Description": "",
+    "Url": "https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/pnp-provisioning-engine-and-the-core-library?context=context%2Fchromeless&linktarget=true",
+    "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
+    "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
+    "Source": "JulieTurner",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "22a36fe4-99c7-4ae1-b9d3-9404fcb05595",
+    "Title": "Provisioning console application sample",
+    "Description": "",
+    "Url": "https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/provisioning-console-application-sample?context=context%2Fchromeless&linktarget=true",
+    "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
+    "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
+    "Source": "JulieTurner",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "8dcba564-d82a-4220-b5ad-f2f55f67fa29",
+    "Title": "PnP Powershell Overview",
+    "Description": "",
+    "Url": "https://docs.microsoft.com/en-us/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?context=context%2Fchromeless&linktarget=true",
+    "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
+    "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
+    "Source": "JulieTurner",
+    "StatusTagId": "",
+    "StatusNote": ""
+  }
+]
