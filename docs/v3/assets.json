@@ -1,15 +1,59 @@
 [
   {
-    "Id": "3b72f30f-1438-4551-b009-8ad6f7d924a2",
-    "Title": "Pillars of a great Azure architecture",
-    "Description": "You want to build great things on Azure, but you’re not sure exactly what that means. Using key principles throughout your architecture regardless of technology choice, can help you design, build, and continuously improve your architecture.",
-    "Url": "https://docs.microsoft.com/en-us/learn/modules/pillars-of-a-great-azure-architecture/1-introduction?context=context%2Fchromeless&linktarget=true",
+    "Id": "3b72f30f-1438-4551-b009-8ad6f7d924a1",
+    "Title": "Introduction",
+    "Description": "",
+    "Url": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/1-introduction?context=context%2Fchromeless&linktarget=true",
     "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
     "SubjectId": "5b1a6578-0cf6-4942-9c80-7d0ac97c4a98",
     "Source": "RyanMarchant",
     "StatusTagId": "",
     "StatusNote": ""
   },
+  {
+    "Id": "3b72f30f-1438-4551-b009-8ad6f7d924a2",
+    "Title": "What is cloud computing?",
+    "Description": "",
+    "Url": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/2-what-is-cloud-computing?context=context%2Fchromeless&linktarget=true",
+    "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
+    "SubjectId": "5b1a6578-0cf6-4942-9c80-7d0ac97c4a98",
+    "Source": "RyanMarchant",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "3b72f30f-1438-4551-b009-8ad6f7d924a3",
+    "Title": "Benefits of cloud computing",
+    "Description": "",
+    "Url": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/3-benefits-of-cloud-computing?context=context%2Fchromeless&linktarget=true",
+    "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
+    "SubjectId": "5b1a6578-0cf6-4942-9c80-7d0ac97c4a98",
+    "Source": "RyanMarchant",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "3b72f30f-1438-4551-b009-8ad6f7d924a4",
+    "Title": "Compliance terms and requirements",
+    "Description": "",
+    "Url": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/3a-compliance?context=context%2Fchromeless&linktarget=true",
+    "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
+    "SubjectId": "5b1a6578-0cf6-4942-9c80-7d0ac97c4a98",
+    "Source": "RyanMarchant",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "3b72f30f-1438-4551-b009-8ad6f7d924a5",
+    "Title": "Economies of scale",
+    "Description": "",
+    "Url": "https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/3b-economies-of-scale?context=context%2Fchromeless&linktarget=true",
+    "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
+    "SubjectId": "5b1a6578-0cf6-4942-9c80-7d0ac97c4a98",
+    "Source": "RyanMarchant",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },            
   {
     "Id": "8dcba564-d82a-4220-b5ad-f2f55f67fa29",
     "Title": "Design for Security",

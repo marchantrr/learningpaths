@@ -1,15 +1,15 @@
 [
   {
     "Id": "a8cbac83-f7e8-45ff-a4a6-6b04f31a5745",
-    "Title": "Playlist 1",
-    "Image": "images/playlists/remotesite.png",
+    "Title": "Cloud Concepts - Principles of cloud computing",
+    "Image": "images/playlists/principles-cloud-computing.svg",
     "LevelId": "27f4c920-bcab-46b9-8e13-9de63e219c84",
     "AudienceId": "e8c8ddb2-cc57-4547-8678-d6df31ae3ada",
     "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
     "SubjectId": "",
     "Source": "RyanMarchant",
     "CatId": "707bef85-0b1b-4e0a-b60f-5c059f0d6a57",
-    "Description": "This is a description for Playlist 1",
+    "Description": "Explore the core concepts of cloud computing and how it can help your business.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
