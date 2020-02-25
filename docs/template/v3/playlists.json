@@ -1,0 +1,38 @@
+[
+  {
+    "Id": "a8cbac83-f7e8-45ff-a4a6-6b04f31a5745",
+    "Title": "Playlist 1",
+    "Image": "images/playlists/remotesite.png",
+    "LevelId": "27f4c920-bcab-46b9-8e13-9de63e219c84",
+    "AudienceId": "e8c8ddb2-cc57-4547-8678-d6df31ae3ada",
+    "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
+    "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
+    "Source": "RyanMarchant",
+    "CatId": "707bef35-0c1b-4e0a-b60f-5c059f0d6a57",
+    "Description": "This is a descriptionfor Playlist 1",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "3b72f30f-1438-4551-b009-8ad6f7d924a2",
+      "9faefc4b-60e8-46ef-892c-791e030a8d28"
+      ]
+  },
+  {
+    "Id": "7ea7584c-1d5f-456e-8bd8-607bcdbc747f",
+    "Title": "Playlist 2",
+    "Image": "images/playlists/remotesite.png",
+    "LevelId": "27f4c920-bcab-46b9-8e13-9de63e219c84",
+    "AudienceId": "e8c8ddb2-cc57-4547-8678-d6df31ae3ada",
+    "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
+    "SubjectId": "988803d4-3979-41e8-ba3f-1242324b0688",
+    "Source": "JulieTurner",
+    "CatId": "707bef35-0c1b-4e0a-b60f-5c059f0d6a57",
+    "Description": "Playlist 2 description",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "3b72f30f-1438-4551-b009-8ad6f7d924a2",
+      "8dcba564-d82a-4220-b5ad-f2f55f67fa29"
+    ]
+  }
+]
