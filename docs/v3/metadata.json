@@ -2,32 +2,20 @@
   "Technologies": [
     {
       "Id": "1bc58e88-3db7-4a15-ad19-b3b0ab606a53",
-      "Name": "AWS",
+      "Name": "Technology 1",
       "Subjects": []
     },
     {
       "Id": "c946268b-7fa1-4778-8e85-2b65b5186947",
-      "Name": "Azure",
+      "Name": "Technology 2",
       "Subjects": [
         {
           "Id": "5b1a6578-0cf6-4942-9c80-7d0ac97c4a98",
-          "Name": "Overview"
-        },        
-        {
-          "Id": "5b1a6578-0cf6-4942-9c80-7d0ac97c4a13",
-          "Name": "Network"
-        },
-        {
-          "Id": "5b1a6578-0cf6-4942-9c80-7d0ac97c4a45",
-          "Name": "Storage"
-        },
-        {
-          "Id": "5b1a6578-0cf6-4942-9c80-7d0ac97c4a67",
-          "Name": "Compute"
+          "Name": "Subject 1"
         },        
         {
           "Id": "988803d4-3979-41e8-ba3f-1242324b0688",
-          "Name": "Operations"
+          "Name": "Subject 2"
         }
       ]
     }
@@ -35,7 +23,7 @@
   "Categories": [
     {
       "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
-      "Name": "Azure",
+      "Name": "Category 1",
       "Image": "",
       "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
       "SubjectId": "",
@@ -43,7 +31,7 @@
       "SubCategories": [
         {
           "Id": "707bef35-0c1b-4e0a-b60f-5c059f0d6a57",
-          "Name": "Architect Great Solutions in Azure",
+          "Name": "Subcategory",
           "Image": "images/categories/remote.png",
           "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
           "SubjectId": "5b1a6578-0cf6-4942-9c80-7d0ac97c4a98",
@@ -51,7 +39,26 @@
           "SubCategories": []
         }
       ]
-    }
+    },
+    {
+      "Id": "646b4eb4-32c0-4fdc-93fa-0ef975470b74",
+      "Name": "Category 2",
+      "Image": "",
+      "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
+      "SubjectId": "",
+      "Source": "RyanMarchant",
+      "SubCategories": [
+        {
+          "Id": "707bef85-0b1b-4e0a-b60f-5c059f0d6a57",
+          "Name": "Subcategory",
+          "Image": "images/categories/remote.png",
+          "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
+          "SubjectId": "5b1a6578-0cf6-4942-9c80-7d0ac97c4a98",
+          "Source": "RyanMarchant",
+          "SubCategories": []
+        }
+      ]
+    }    
   ],
   "Audiences": [
     {
