@@ -43,8 +43,8 @@
       "SubCategories": [
         {
           "Id": "707bef85-0b1b-4e0a-b60f-5c059f0d6a57",
-          "Name": "Overview",
-          "Image": "images/categories/remote.png",
+          "Name": "Azure fundamentals",
+          "Image": "images/categories/azure-fundamentals.svg",
           "TechnologyId": "c946268b-7fa1-4778-8e85-2b65b5186947",
           "SubjectId": "5b1a6578-0cf6-4942-9c80-7d0ac97c4a98",
           "Source": "RyanMarchant",
